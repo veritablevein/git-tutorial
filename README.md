@@ -3,3 +3,4 @@ for test command "git diff", just add something in this file
   - feature-A
   - fix-B
   - feature-C
+  - feature-D
